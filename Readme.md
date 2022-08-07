@@ -1,0 +1,1 @@
+Playing with Go 1.9 flag package ability o process custom struct types
